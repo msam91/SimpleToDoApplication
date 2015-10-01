@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
+![alt tag](http://i.imgur.com/ywbgVXu.gifv)
 <img src='http://i.imgur.com/ywbgVXu.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://imgur.com/3LiICZe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
